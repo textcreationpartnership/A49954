@@ -1,0 +1,670 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cor humiliatum &amp; contritum a sermon preached at S. Pauls Church London, Nov. 29, 1663 / by Richard Lee ... ; wherein was delivered the profession of his judgement against the Solemn league and covenant, the late King's death, &amp;c.</title>
+            <author>Lee, Richard, 1611-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49954</idno>
+            <idno type="STC">Wing L888</idno>
+            <idno type="STC">ESTC R19629</idno>
+            <idno type="EEBO-CITATION">12043416</idno>
+            <idno type="OCLC">ocm 12043416</idno>
+            <idno type="VID">53035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53035)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 570:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cor humiliatum &amp; contritum a sermon preached at S. Pauls Church London, Nov. 29, 1663 / by Richard Lee ... ; wherein was delivered the profession of his judgement against the Solemn league and covenant, the late King's death, &amp;c.</title>
+                  <author>Lee, Richard, 1611-1684.</author>
+               </titleStmt>
+               <extent>[7], 43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston, J. Williams, T. Garthwait,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: A broken and contrite heart.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms LI, 17 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:53035:1"/>
+            <head>BATEMAN MAIOR.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Martis octavo die Decemb.</hi> 1663. <hi>Annóque Regis Caroli Secundi, Angliae,</hi> &amp;c. 15.</date>
+               </dateline>
+            </opener>
+            <p>IT is ordered that D<hi rend="sup">r</hi> 
+               <hi>Lee</hi> be deſired from this Court to print his Sermon Preached at S. <hi>Paul</hi>'s Church on Sunday laſt was ſeven-night, before the Lord Maior and Aldermen, and a great aſſembly of the Citizens of <hi>London.</hi>
+            </p>
+            <closer>
+               <signed>Weld.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>
+               <hi>PErlegi hanc Concionem, cui Titulus,</hi> [Cor Humiliatum &amp; Contritum] <hi>in quâ nihil occurrit ſanae Fidei, Diſci<g ref="char:EOLhyphen"/>plinae Eccleſiae Anglicanae, aut bonis moribus contrarium: Quin<g ref="char:EOLhyphen"/>imo digniſsimam cenſeo quae publicae utilitatis &amp; exempli cauſâ Typis mandetur.</hi>
+            </p>
+            <closer>
+               <signed>Joh. Hall, <hi>R. in Chriſto Pat.</hi> Humfredo <hi>Epiſc.</hi>
+               </signed> 
+               <dateline>Lond. <hi>à Sac. Domeſt.</hi> 
+                  <date>Decemb. 9. 1663.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:53035:1"/>
+            <p>Cor Humiliatum &amp; Contritum.</p>
+            <p>A SERMON PREACHED At S. PAULS Church LONDON, <hi>Nov.</hi> 29. 1663.</p>
+            <p>By RICHARD LEE, D.D. Chaplain to the moſt Renowned GEORGE Duke of <hi>Albemarle</hi> his Grace, and Rector of <hi>Kings-Hatfield</hi> in <hi>Hartfordſhire.</hi>
+            </p>
+            <p>WHEREIN Was delivered the profeſſion of his judgement againſt the <hi>Solemn League and Cove<g ref="char:EOLhyphen"/>nant,</hi> the late KING'S Death, <hi>&amp;c.</hi>
+            </p>
+            <figure>
+               <q>DEVS NON DESPICIET <abbr>CORPS</abbr> 
+                  <unclear>50</unclear> CONTRITVM ET HVMILITATVM</q>
+            </figure>
+            <p>Printed for <hi>R. Royſton, J. Williams, T. Garthwait.</hi> 1663.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:53035:2"/>
+            <pb facs="tcp:53035:2"/>
+            <head>TO THE Moſt Reverend Father in God, GILBERT, By Divine Providence, Lord Arch-Biſhop of <hi>Canterbury</hi> his Grace, Primate of all <hi>England</hi> and Metropolitane, and one of His MAJESTIES moſt Honourable Privy Council.</head>
+            <opener>
+               <salute>May it pleaſe your Grace,</salute>
+            </opener>
+            <p>IT was the Prophecie of His late Majeſty, that Incompa<g ref="char:EOLhyphen"/>rable and Divine Prince, of glorious and eternal memory, to His Son our now moſt gracious Soveraign, whom God hath nouriſhed, preſerved, reſtored, and bleſt by Miracles; bleſt in Himſelf, and the great miracle of Clemency to His people; in the <hi>27<hi rend="sup">th</hi>
+               </hi> Meditation of His <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, That none will be more loyal and faithful to You and Me, then thoſe Subjects, who being ſenſible of their own Errors and Our Injuries, will feel in their ſouls vehement motives to Re<g ref="char:EOLhyphen"/>pentance, and earneſt deſires to make ſome reparations for their former defects. Now feeling in my ſoul vehement mo<g ref="char:EOLhyphen"/>tives to Repentance, and earneſt deſires to make ſome Re<g ref="char:EOLhyphen"/>parations for my former defects, I reſolved on ſome publick compenſation, and accordingly compoſed this Sermon, which I preach'd firſt to the Univerſity of <hi>Cambridge,</hi> where it was received <hi>Ambabus ulnis</hi> with an open boſome: Next
+<pb facs="tcp:53035:3"/>to this famous City, at S. <hi>Paul</hi>'s, whither I had been ſummo<g ref="char:EOLhyphen"/>ned (without Text or terms) by the Angel of that Church, the now Lord Biſhop of <hi>London,</hi> who heard me with an exemplary Attention, and Paternal affection, and afterwards received, embraced and bleſſed me, Encouraged and Com<g ref="char:EOLhyphen"/>manded my Sermon to the Preſs, for publick benefit. The Auditory, (though greater then had been known in the me<g ref="char:EOLhyphen"/>mory of man) yet was compoſed into a ſpirit and poſture ſu<g ref="char:EOLhyphen"/>table to the Majeſty, Holineſs, and Preſence of that God in whoſe Houſe we were. I did with much fear addreſs my ſelf to this ſervice, (finding ſo much Reaſon to diſtruſt my own Abilities:) but now with a Joy anſwerable to that Preſence and Influence I had from God in ſpeaking, and that Incou<g ref="char:EOLhyphen"/>ragement I had from all Degrees of men (eſpecially from that excellent Perſon, the Lord Biſhop) to Printing, I now publickly make this offering to your Grace, to whom I not onely owe Canonical Obedience, but an account of all the ſer<g ref="char:EOLhyphen"/>vice I doe in the Church; in which ſervice, Loyalty and duty to His Majeſty and my Superiors (and to teach men ſo) is eminently involved. I well know, I have incurr'd ſome mens Cenſures by ſpeaking my Conſcience in Points they reliſh not, and am like to diſpleaſe others who are wont to condemn before-hand: But as I rejoyce to offend any for their good, ſo I am affraid to pleaſe any for their hurt. However I have ſpoken what I believe, and thereby have delivered my own Soul. But leſt the Medicine I have preſcribed ſhould turn to a Wound, I have tempered the truth with meekneſs and moderation, as well knowing that hard Arguments and ſoft words will prevail where the Sword cannot. Speaking and Printing have their ſeveral Graces, as God is pleaſed to ſet
+<pb facs="tcp:53035:3"/>them on by his preſence and influence. This Sermon was bleſt with right Reverend, right Honourable, and Ingenuous Auditors; the Ear was kind, though the Eie may be ſevere. It hath this in it, that it was Seaſonable; Pills well Acuted purge the better. What was once wrote to <hi>Egidius</hi> Abbot of <hi>Noremberg</hi> concerning <hi>David</hi>'s words in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>18.</hi> Pſ. may be ſaid of the words of my Text, They are <hi>Verba le<g ref="char:EOLhyphen"/>genda, &amp; vivenda,</hi> Living words. I cannot think the Ser<g ref="char:EOLhyphen"/>mon worthy a publick view: yet having obtained (through God's bleſsing) the Approbation of the Univerſity and City, and chiefly of that Religious and grave Prelate, the Lord B<hi rend="sup">p</hi> of <hi>London,</hi> by doing ſome good (I hope) I do therefore in all humility preſent it to your Grace, through whoſe wiſe Con<g ref="char:EOLhyphen"/>duct, Sedulity and Paternal Condeſcentions, ſuch changes are wrought upon the Once Seduced, that they are not now afraid of the Biſhop, but aſhamed of themſelves, and of their own in<g ref="char:EOLhyphen"/>juſtice, ingratitude and perjury, in Covenanting againſt them.</p>
+            <p>The Preſent I now make to your Grace is ſlender; yet, to ſpeak in S. <hi>Jerome</hi>'s words, <hi>Nobiſcum bene agitur, ſi obtulerimus pelles &amp; Caprarum pilos,</hi> It is well, (where we have no better) we offer according to our Ability, and that is, <hi>Cor Humiliatum &amp; Contritum,</hi> which your Grace <hi>(cum Deo)</hi> will not deſpiſe, but own, accept, and honour. However it be, I humbly offer it in thoſe ſubmiſsive words and manner S. <hi>Aug.</hi> hath taught me, <hi>Domine Deus, quae<g ref="char:EOLhyphen"/>cunque dixi de tuo, agnoſcant &amp; tui; ſiqua de meo, &amp; tu agnoſce, &amp; tui,</hi> Whatever, Lord, I have ſpoken that is from thee, own it in the hearts of thine; and what I have ſpoken that is from my ſelf, forgive it, and let it be by thine forgiven.</p>
+            <pb facs="tcp:53035:4"/>
+            <p>I cannot ſay, at the Preaching this Sermon any contra<g ref="char:EOLhyphen"/>dicted, but rather rejoyced and glorified the Word of the Lord, <hi>Act. 13.48.</hi>
+            </p>
+            <p>Herein I content my ſelf, that I have with clearneſs and ſincerity quitted and diſcharged <hi>1.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> my Duty to God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ſearcher of Hearts; <hi>2.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> to his moſt gracious Ma<g ref="char:EOLhyphen"/>jeſty, the beſt of Kings, bleſt in himſelf, and beloved for his Wiſdome, Righteouſneſs, and wonderful Mercy, who delights not in the noiſe of Chains and Fetters, but rather wiſhes with <hi>Theodoſius, Se potuiſſe vel mortuos à morte revocare,</hi> That he could recover the worſt of his Subjects to their duty and happineſs.</p>
+            <p>
+               <hi>3.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> To the Church of <hi>England</hi> (my Indulgent Mother) the beſt Reformed Proteſtant Church in the World, in whoſe Boſome I deſire to live and die a Penitent, and Regular Son.</p>
+            <p>
+               <hi>4.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> To your Grace (the Glorious Ruling Light, and moſt Spiritual Father of this Church of <hi>England,</hi> under whoſe great Name (which alone will give it Protection and Va<g ref="char:EOLhyphen"/>lue) I ſend forth this Sermon into the World.</p>
+            <p>May that God who hath raiſed your Grace to the higheſt ſervice in this Church, give you the greateſt ſucceſs, and fulleſt Satisfaction in himſelf, that your Glory here may be the Pledge and Firſt-fruits of your Crown hereafter.</p>
+            <closer>
+               <signed>
+                  <hi>May it pleaſe your Grace, I am The humbleſt and moſt unworthy of the Sons of the Church of</hi> England, Rich. Lee.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:53035:4"/>
+            <head>Cor Humiliatum &amp; Contritum.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 51.17.</hi>
+                  </bibl>
+                  <p>The Sacrifices of God are a broken Spirit: A broken and contrite Heart, O God, thou wilt not deſpiſe.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Pſalm is juſtly ſtyled <hi>David</hi>'s Recantation; to <hi>which Head,</hi> we muſt reduce all his, and all other Confeſ<g ref="char:EOLhyphen"/>ſions of God's Saints in Scripture, <hi>as to the common Remedy,</hi> of that lability, error, and ſin, which is congenious to their and our Natures.</p>
+            <p>This is one of thoſe ſeven <hi>Penitential Pſalms,</hi> penn'd by <hi>David,</hi> and appointed by the <hi>Church</hi> to be uſed in time of Penance and Contrition. <hi>Pſalms</hi> which S. <hi>Au<g ref="char:EOLhyphen"/>guſtine,</hi> was ſo great a lover and admirer of, that he commanded them to be written in Capital Letters, and hung upon the Wall over againſt his Bed, or about the Curtains of his Death-bed within, next to him; that ſo he might die as he had lived, in the Con<g ref="char:EOLhyphen"/>templation
+<pb n="2" facs="tcp:53035:5"/>and Meditation of them, with tears in his eyes, in the practice of Repentance, praying for the remiſſion of his ſins: alwaies judging this, (as <hi>Poſsi<g ref="char:EOLhyphen"/>donius</hi> ſpeaks) <hi>the ſafer and ſurer way to bleſſedneſs, then that of Raptures;</hi> and the <hi>fitteſt diſpoſition</hi> for <hi>dying Chriſtians,</hi> eſpecially for ſuch of the Miniſtry, who have by their omiſſions, flatteries and ſilences, the ſins of others to anſwer for as well as their own.</p>
+            <p>This Pſalm is <hi>Pſalmus</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo <hi>Junius;</hi> A Pſalm of prayer; for mercy is the ſcope of it, which <hi>David</hi> praies for in the negative and poſitive effects of it. And indeed this ſweet Singer of <hi>Iſrael</hi> never prayed more pathetically, then when his heart was broke moſt penitentially: as Birds in Spring ſing melodi<g ref="char:EOLhyphen"/>ouſly when it rains ſadly; or as ſome faces which are moſt oriently beautiful, when moſt waſh'd with tears.</p>
+            <p>The occaſion of this Pſalm was <hi>David</hi>'s ſin and <hi>Na<g ref="char:EOLhyphen"/>than</hi>'s Miniſtry, 2 <hi>Sam.</hi> 11, &amp; 12 <hi>Ch.</hi> The effect whereof was not an itching ear, but an aking heart: for whileſt he tells him a Parable, <hi>David</hi> ſuſpects not that it con<g ref="char:EOLhyphen"/>cerns him; but when <hi>Nathan</hi> no longer brandiſhes the ſword in the air, but by a cloſe application falls in with him, <hi>Thou art the man, David</hi> feels the wound, and <hi>nè evaneſcat, &amp; ſaeviat dolor,</hi> leſt the ſenſe might va<g ref="char:EOLhyphen"/>niſh, and his wound feſter, he cries out for help, <hi>Have mercy upon me, O God, according to thy loving kindneſs; ac<g ref="char:EOLhyphen"/>cording to the multitude of thy tender mercies, blot out my tranſgreſsions:</hi> as in the firſt verſe.</p>
+            <pb n="3" facs="tcp:53035:5"/>
+            <p>The Parts of his Prayer are two:
+<list>
+                  <item>Petition for himſelf.</item>
+                  <item>Supplication for the Church.</item>
+               </list>
+            </p>
+            <p n="1">1. For himſelf, who by his Murder and Adultery had ſo offended and diſhonoured God; from the 1 verſe to the 18.</p>
+            <p n="2">2. For the Church, which by his fall was ſo ſcan<g ref="char:EOLhyphen"/>dalized and endangered, that from <hi>Dan</hi> to <hi>Beerſheba</hi> 70 thouſand die of the Plague, 2 <hi>Sam.</hi> 24.15.</p>
+            <p>The Arguments by which he enforceth his Prayer are three.</p>
+            <p n="1">1. Taken from his Repentance, which was ſound and ſerious, (as having in it not only the neceſſity of a Duty, he had ſinn'd if he had not repented; but the neceſſity of a Remedy, for he had periſh'd if he had not repented.)</p>
+            <p n="2">2. From others, whom by his experience of God's pardoning mercy, he might with more skill, humility and tenderneſs, recover and cure, v. 13. <hi>Docebo praevari<g ref="char:EOLhyphen"/>catores vias tuas, Then ſhall I teach tranſgreſſors thy waies, and ſinners ſhall be converted to thee.</hi> Spiritual Phyſici<g ref="char:EOLhyphen"/>ans muſt not only be knowing, but men of practice and experience, that can tell what it is to have <hi>a bro<g ref="char:EOLhyphen"/>ken heart and contrite ſpirit.</hi>
+            </p>
+            <p n="3">3. From the glory of God's pardoning mercy, which would be made more illuſtrious,</p>
+            <p n="1">1. By his publiſhing of it, and therein his righte<g ref="char:EOLhyphen"/>ouſneſs, in keeping promiſe, and forgiving thoſe ſins for which our Surety hath ſatisfied, <hi>v.</hi> 14, 15. <hi>Deliver
+<pb n="4" facs="tcp:53035:6"/>me from bloud-guiltineſs, O God,</hi> or, from <hi>blouds, (Uriah</hi>'s and others with him) <hi>and my tongue ſhall ſing of thy righ<g ref="char:EOLhyphen"/>teouſneſs. Praebe mihi materiam Cantici &amp; gratiarum acti<g ref="char:EOLhyphen"/>onis, ignoſcendo peccato,</hi> (ſo <hi>Muis</hi> upon the place) <hi>Open thou my lips, and my mouth ſhall ſhew forth thy praiſe.</hi>
+            </p>
+            <p n="2">2. By his thankful offering to God, not the Sacri<g ref="char:EOLhyphen"/>fices of the Law, thoſe he deſires not, delights not in; but theſe of the Goſpel, <hi>A broken and contrite Heart. For the Sacrifices of God are,</hi> &amp;c.</p>
+            <p>In the Text we have two Propoſitions:
+<list>
+                  <item>Affirmative.</item>
+                  <item>Negative.</item>
+               </list>
+            </p>
+            <p>Affirmative, <hi>The Sacrifices of God are a broken Heart.</hi>
+            </p>
+            <p>Negative, <hi>A broken and contrite Heart, O God, thou wilt not deſpiſe.</hi>
+            </p>
+            <p>Theſe Propoſitions are one for ſubſtance, yet dou<g ref="char:EOLhyphen"/>bled (as <hi>Pharaoh</hi>'s dream) to make the truth more cer<g ref="char:EOLhyphen"/>tain. Wherein you have,</p>
+            <p n="1">1. The Subject, <hi>A broken and contrite Spirit.</hi>
+            </p>
+            <p n="2">2. The Predicate, <hi>The Sacrifices of God,</hi> &amp;c.</p>
+            <p n="3">3. The <hi>Copula [Are]</hi> not in the Original, (therefore put in a different character) to perfect the ſenſe.</p>
+            <p>For the better opening theſe Sacrifices, I ſhall doe with them as the Prieſts under the Law, <hi>Medium ani<g ref="char:EOLhyphen"/>mal per cervicem &amp; ſpinam dividere,</hi> Cut them through the middle from the neck downwards, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And this bears (ſaith my Author
+<note n="*" place="margin">D<hi rend="sup">r</hi> 
+                  <hi>W.</hi>
+               </note>) a huge proportion to the Text; for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an iron ſi<g ref="char:EOLhyphen"/>new in the neck and a ſtone in the heart, ſignifie
+<pb n="5" facs="tcp:53035:6"/>in Scripture one and the ſame ſin, and muſt be alike ſacrificed. Firſt then,</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Theſe two Participles make two full Epithetes: One ſignifies, to break whole things,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> all of a piece; The other, to beat hard things all to pieces and powder.</p>
+            <p>This breaking and beating in other Scriptures is expreſt in terms of extremity: As the ſmiting of the heart, 2 <hi>Sam.</hi> 24.10. The wound of the ſpirit, <hi>Prov.</hi> 18.14. Thus it is applied to Chriſt, <hi>Eſay</hi> 53.10. <hi>Jehova autem voluit</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>conterere eum, It pleaſed the Lord to bruiſe him,</hi> &amp;c.</p>
+            <p>Thus to Saints, <hi>Eſay</hi> 57.15. <hi>I dwell in the high and holy place,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp; cum contrito &amp; humili,</hi> ſo <hi>Vatab. to revive the ſpirit of the humble, and to revive the ſpirit of the contrite ones.</hi> So as a broken and con<g ref="char:EOLhyphen"/>trite Heart, is a whole Heart broken to pieces, and a hard Heart ſo beaten to powder, that there remains not a ſheard (as <hi>Iſaiah</hi> ſpeaks) to take up: <hi>igniculam ten<g ref="char:EOLhyphen"/>tationis,</hi> or <hi>modicum noxiae voluptatis,</hi> the ſpark of a tem<g ref="char:EOLhyphen"/>ptation, or a drop of hurtful pleaſure (as <hi>Pariſienſis</hi> elegantly interprets it.)</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Sacrifices, in the plural number,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> for the grea<g ref="char:EOLhyphen"/>ter Emphaſis and Amplification: <hi>inſtar omnium,</hi> inſtead of all; All ſacrifices nothing to theſe, all nothing with<g ref="char:EOLhyphen"/>out theſe, all ſumm'd up in theſe. For theſe are</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Sacrifices of the Almighties, of God.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> The adding God's Name to any thing in Scripture gives it an eminency, a glory above other things. As
+<pb n="6" facs="tcp:53035:7"/>in the Old Teſtament, the Waters, Mountains, Cedars of God; in the New Teſtament, the Peace of God; and here the Sacrifices of God, moſt rare and excel<g ref="char:EOLhyphen"/>lent. For,</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Such God will not deſpiſe.
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> The phraſe is low, yet hath a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in it: as 1 <hi>Theſ.</hi> 5.20. <hi>Deſpiſe not Prophecie; Heb.</hi> 12.5. <hi>Deſpiſe not the chaſtening of the Lord.</hi> And ſo imports God's <hi>choiceſt way</hi> of <hi>Acceptation,</hi> the third ſtep of Honour in the Text.
+<note n="*" place="margin">D<hi rend="sup">r</hi> 
+                  <hi>W.</hi>
+               </note> 
+               <hi>Sacrifices, Sacrifices</hi> of God, and the <hi>Sacrifices</hi> of God which he will not deſpiſe, but own, delights in, puts the higheſt price upon.</p>
+            <p>The reſult of all is,</p>
+            <p>That a broken and contrite Spirit is the Sacrifice of God, which he will own, accept, and honour. For as ſuch a Heart is grateful to the <hi>Penitent himſelf,</hi> ſo to <hi>Angels,</hi> to the <hi>Mediator,</hi> to his <hi>Miniſters,</hi> and ſo to the Almighties, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to God himſelf.</p>
+            <p n="1">1. To the Penitent: for having this heavenly grace wrought in his heart by the holy Ghoſt, and thereby coming to the ſenſible knowledge of his ſins, and the diſpleaſure of God, he doth earneſtly grieve; but by faith in Chriſt (the Surety of his debt and duty, his Sacrifice and Mediator) he is raiſed again to comfort: And then, <hi>Sicut poſt vehementes imbres aeris tranquillitas ſequitur,</hi> As after vehement ſhowers there follows a tranquillity of air; ſo <hi>poſt lacrymarum pluvias mentis ſerenitas,</hi> after flouds of tears, the Penitent finds ſuch a ſerenity all over his Soul, that he weeps for
+<pb n="7" facs="tcp:53035:7"/>joy that he hath wept; <hi>de peccato dolet, &amp; de dolore gaudet. Eſt flendi voluntas,</hi> (ſo S. <hi>Ambroſe</hi>) he wills to weep. For ſuch tears leave behind them a <hi>ſweet taſt</hi> and reliſh upon the Soul (the immediate reward of this brokenneſs and contrition; yea God's ſecret te<g ref="char:EOLhyphen"/>ſtimony that the Penitent hath herein pleaſed God) and then no wonder he is ſo pleaſed with himſelf, that he praies, <hi>Evermore give me this bread,</hi> for <hi>fle<g ref="char:EOLhyphen"/>tus eſt cibus animae &amp; refectio mentis,</hi> Godly ſorrow is the Soul's food and the mind's refection. <hi>Pſal.</hi> 80.5. <hi>Ci<g ref="char:EOLhyphen"/>bâſti eos pane lacrymarum, &amp; propinâſti eis lacrymas in menſura. Vatab.</hi> Thou feedeſt them with the bread of tears, and giveſt them plenteouſneſs of tears to drink. In Penitential tears there is meat and drink: Hence that late <hi>Penitent</hi> of <hi>Waterford</hi> in <hi>Ireland</hi> (weeping abun<g ref="char:EOLhyphen"/>dantly) cried, <hi>Oh that there were in me a well of this Li<g ref="char:EOLhyphen"/>ving water, that ſtreams might continually run down my cheeks, that in theſe ſtreams I might be wafted over into another world, and till then, that they might not be dried up!</hi>
+            </p>
+            <p n="2">2. As this broken contrite Heart is grateful to the Penitent, ſo to the good Angels, <hi>Domeſtici Dei, Cives Coeli, Principes Paradiſi,</hi> thoſe Domeſticks of God, Citizens of Heaven, Princes of Paradiſe. This is their ban<g ref="char:EOLhyphen"/>quet, <hi>Luke</hi> 15.7. <hi>I ſay to you that likewiſe joy ſhall be in heaven over one ſinner that repents, more then over ninety nine juſt perſons that need no repentance.</hi> Ver. 10. <hi>There is joy in the preſence of the Angels of God over one ſinner that repenteth,</hi> &amp;c. <hi>Angelorum deliciae Poenitentium la<g ref="char:EOLhyphen"/>crymae,</hi>
+               <pb n="8" facs="tcp:53035:8"/>Bernard; Thoſe tears which drop from a bro<g ref="char:EOLhyphen"/>ken contrite Spirit are the Angels delicacies. <hi>Peter</hi> weeping gives Angels wine in heaven; and they to re<g ref="char:EOLhyphen"/>quite him, ſend him a Cup of Conſolation upon earth, <hi>Mark</hi> 16.7. <hi>Goe tell his Diſciples, and Peter, that he goes before you into Galilee:</hi> Tell it, <hi>Petro graviſsimè vulnerato &amp; acerbiſsimè dolenti,</hi> to <hi>Peter</hi> deeply woun<g ref="char:EOLhyphen"/>ded and bitterly weeping. <hi>En ſolicitudinem Angeli,</hi> behold the ſolicitude of an Angel for a broken and contrite Spirit. They that have their tongues, and want their charity, are Meſſengers of no value, ſounding braſs and tinckling Cymbals, <hi>inanis &amp; futilis garrulitas,</hi> as <hi>Druſius</hi> interprets it.</p>
+            <p n="3">3. As this broken contrite Spirit is grateful to the Angels, ſo to the Mediator, who is <hi>Angelorum caput.</hi> It is his office to ſwath broken bones, ſweeten im<g ref="char:EOLhyphen"/>bittered ſpirits, and wipe off tears: <hi>Felices lacrymae quas benignae manus Mediatoris abſtergunt,</hi> ſaith <hi>Bernard,</hi> Happy tears which his bleſſed hands wipe off. <hi>Luke</hi> 4.18. <hi>The Spirit of the Lord is upon me, becauſe he hath anointed me to heal the broken-hearted,</hi> &amp;c. <hi>Non infundit oleum miſericordiae niſi in vas contritum, Bern.</hi> He pours not the oil of mercy but into the broken veſſel.</p>
+            <p>The tender Mother in S. <hi>Bernard, Quem aegrotan<g ref="char:EOLhyphen"/>tem novit filium,</hi> takes her weak weeping child, ſets it moſt on her lap, laies it oftneſt in her boſome, <hi>magìs ſovet, ſaepius complectitur.</hi> Thus Chriſt: For <hi>Peter</hi> had incurr'd a great and infamous ſcandal, given a noto<g ref="char:EOLhyphen"/>rious offence to the whole Church of God; ſolas
+<pb n="9" facs="tcp:53035:8"/>the Cenſorious perſon cries, Call him no more <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> a <hi>Rock,</hi> a <hi>chief Pillar of the Church,</hi> but <hi>Reuben, unſtable as water,</hi> one that hath loſt his excellency. But our Saviour knowing his Heart broken, and his Spirit contrite for his ſin, ſends him a perſonal meſſage by an Angel, and that Angel by <hi>Magda<g ref="char:EOLhyphen"/>lene,</hi> to intimate to him, that he who had <hi>caſt ſeven Devils out</hi> of her, could pardon three denials to him. And this meſſage is directed to him under the name of <hi>Peter,</hi> (an Apoſtolical name) <hi>Mark</hi> 16.7. <hi>Goe tell his Diſciples, and Peter, Petro ſummè ſcandaloſo;</hi> whereby our Saviour doth at once comfort his conſcience and cure his credit, reſtore him to his Diſcipleſhip and his Apoſtleſhip. So the late excellent Biſhop of <hi>Exceſter,</hi> D. <hi>Br. O magni<g ref="char:EOLhyphen"/>tudinem miſericordiae Chriſti!</hi> O the greatneſs of the mercy of this good <hi>Samaritane,</hi> who not onely dreſ<g ref="char:EOLhyphen"/>ſeth the wound, and pours in Wine and Oil, to cleanſe, eaſe, and heal, but takes order for the Cure; that not onely prevents with grace, but continually ſupplies with the neceſſary increaſes of it, that the broken heart may perſevere and be ſaved!</p>
+            <p n="4">4. As this broken contrite Spirit is grateful to the Mediator, ſo to his Miniſters: It is their office to declare and pronounce to the Penitent the Ab<g ref="char:EOLhyphen"/>ſolution and Remiſſion of their ſins; to feed his Lambs [for his ſake] hence the Syriaſt addes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to the Text, <hi>John</hi> 21.15. <hi>Feed my Lambs, [mihi]</hi> feed
+<pb n="10" facs="tcp:53035:9"/>them for me. <hi>Propter te, Domine, propter te,</hi> is the Miniſters Motto, and the Rabbins Proverb. <hi>Non vult Chriſtus ut parvi pendas quos ipſe minimè parvi pendit,</hi> Chriſt would not have thoſe ſlighted whom he tenders. No better ſign of Grace, then for a Miniſter (in imitation of Chriſt) to own and cheriſh the broken in heart. This is S. <hi>Paul</hi>'s trial of a ſpiri<g ref="char:EOLhyphen"/>tual man, <hi>Gal.</hi> 6.1. <hi>If any man be overtaken in a fault,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Erratum, Laeſio errante manu admiſ<g ref="char:EOLhyphen"/>ſa,</hi> and that fault not proceeding from malice, but miſ-information, and miſ-underſtanding of things, (as our late Soveraign of eternal memory ſpeaks) <hi>you that are ſpiritual reſtore ſuch a one;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he is a bone out of joynt, ſet him in his place, (it may coſt tears and pain) yet the bone well knit will be the firmer. <hi>Nihil adeò ſpiritualem virum de<g ref="char:EOLhyphen"/>monſtrat, ac alieni peccati tractatio,</hi> S. <hi>Auguſtine,</hi> No<g ref="char:EOLhyphen"/>thing doth ſo demonſtrate a ſpiritual Miniſter, as his handling another mans ſin. <hi>Eſay</hi> 50.4. <hi>The Lord hath given me.</hi> Linguam Eruditorum, <hi>the tongue of the Learned;</hi> What to doe? To diſpute Con<g ref="char:EOLhyphen"/>troverſies, tie and untie knots in Divinity? No, but <hi>that I ſhould know how to ſpeak a word in ſeaſon</hi> ſitibundo &amp; laſſo, <hi>to him that is weary.</hi>
+            </p>
+            <p>Laſtly, It is grateful to the Almighties, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to God himſelf: though he will not own <hi>diviſum &amp; diſperſum Cor,</hi> a heart and a heart, yet he will ac<g ref="char:EOLhyphen"/>cept
+<pb n="11" facs="tcp:53035:9"/>and honour <hi>confractum &amp; contritum Cor,</hi> a bro<g ref="char:EOLhyphen"/>ken and contrite Spirit. For,</p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> He preferres this alone to all typical ceremo<g ref="char:EOLhyphen"/>nial Sacrifices, ver. 16. <hi>Thou deſireſt not Sacrifice, elſè would I give it thee; thou delighteſt not in burnt-offe<g ref="char:EOLhyphen"/>rings.</hi> Indeed we find not expreſt any Sacrifice for Murther, Adultery, or any Capital crime; therefore God deſires them not 1. ſimply for themſelves, nor 2. <hi>comparativè,</hi> in compariſon of the inward Sa<g ref="char:EOLhyphen"/>crifice of a contrite Spirit, or of the all-ſufficient Sacrifice of Chriſt upon the Croſs.</p>
+            <p>
+               <hi>Nihil ergò offeremus?</hi> ſaith S. <hi>Auguſtine: Sic veni<g ref="char:EOLhyphen"/>emus ad Deum? Unde illum placabimus?</hi> Shall we then offer nothing to God? ſhall we come empty to him? how then ſhall we appeaſe him? <hi>Habes in te quod offeras,</hi> (ſaith the ſame Author) thou haſt in thy ſelf the Beaſt that thou maieſt ſacrifice, and the Incenſe that thou maieſt offer. <hi>In me ſunt, Deus, vota tua,</hi> That (O God) is in me, thou calleſt for from me.</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> God preferres this before all Moral and Pha<g ref="char:EOLhyphen"/>riſaical perfections. Hence the Publican is pre<g ref="char:EOLhyphen"/>ferr'd before the Phariſee, <hi>Luke</hi> 18.10,—15. The Phariſee is on his <hi>tip-toes,</hi> ſtands alone, <hi>ſeorſim,</hi> proud and cenſorious, as that famous and great Divine D. <hi>Hammond</hi> ſpeaks; full of ſelf-righteouſ<g ref="char:EOLhyphen"/>neſs, worldly confidence, and earthly adherence: <hi>Lord, I thank thee, I am not as other men, or as this
+<pb n="12" facs="tcp:53035:10"/>Publican.</hi> The Publican in the ſight and ſenſe of his ſin, and the unreaſonableneſs of it, is aſhamed, dares not lift up his head, but ſmites upon his breaſt, (with <hi>God be merciful to me a ſinner.</hi>) <hi>I tell you,</hi> ſaith Chriſt, <hi>this man went down to his houſe juſtified, rather then the other,</hi> ſo our Tranſlation; <hi>but not the other, Impropria eſt comparatio,</hi> ſo Maſter <hi>Calvin.</hi> And the weeping Prodigal before his inſulting hypo<g ref="char:EOLhyphen"/>critical elder brother, <hi>Luke</hi> 15. For though he juſtles him, and thruſts him away, will not ſo much as own him for his brother, but ſpeaking to his Father, ſaith, <hi>this thy ſon,</hi> v. 30. <hi>who hath devoured thy living with Harlots,</hi> &amp;c. yet the Father tells him, for all this he is his brother, v. 32. <hi>This thy brother was dead, and is alive again,</hi> &amp;c. If I be thy Father, he is thy Brother. <hi>It is meet we ſhould make merry and be glad.</hi> Yea he preferres him, for he re<g ref="char:EOLhyphen"/>ceives, embraces, and kiſſes him, clothes and adorns him, feeds and feaſts him.</p>
+            <p>In alluſion to this Parable, the now Arch-angel of this Church of <hi>England, His Grace of Canterbury,</hi> (in whom <hi>(expertus loquor) Indulgentia Chriſti, ſolici<g ref="char:EOLhyphen"/>tudo Angeli, &amp; officium Epiſcopi,</hi> The Indulgence of Chriſt, the ſolicitude of an Angel, the office of Primitive, Evangelical, Catholick Epiſcopacy do verily meet) I ſay he, in the Chappel-Royal, in a publick Sermon (ſince printed) told his Majeſty (whoſe <hi>mind</hi> is alwaies <hi>watered</hi> with the mild dews
+<pb n="13" facs="tcp:53035:10"/>of meekneſs and moderation) That it became him, as a publick Father, to look upon all his Sub<g ref="char:EOLhyphen"/>jects as Sons; but upon his Prodigals with more kindneſs and tenderneſs (when they once come to themſelves, and acknowledge their Error;) yea when he ſees them returning (though afarre off) to meet them, careſs them, call for the Ring and the Robe, to ſet ſome mark of favour upon them more then ordinary, that may give aſſurance to them and to the World, that his Promiſes made and performed were not the effects of Neceſſity, but the fruits of a gracious Princely minde, in<g ref="char:EOLhyphen"/>violably reſolved to out-doe all his Promiſes and Engagements.</p>
+            <p>And I hope, ſaith that grave and religious Pre<g ref="char:EOLhyphen"/>late, the now Lord Biſhop of <hi>Wincheſter,</hi> D<hi rend="sup">r</hi> 
+               <hi>Mor.</hi> in the Epiſtle to his Coronation-Sermon, That your Majeſty herein will find a happy ſucceſs, in doing not onely as your Grand-father <hi>Henry</hi> the fourth of <hi>France</hi> did, but as God himſelf doeth. As <hi>Henry</hi> the fourth of <hi>France</hi> did, who pardoned thoſe Rebellious Subjects that came in to him, (how much ſoever they had before offended;) and to ſecure them from their fears, and oblige them to his ſervice, he honoured ſome of them with Titles of quality and Places of Truſt; and I finde not (ſaith that excellent Biſhop) that any of them ever gave him cauſe to repent.</p>
+            <pb n="14" facs="tcp:53035:11"/>
+            <p>But in doing as God himſelf doeth, who receives the Prodigal, yea and makes as much of him as if he had never offended, (though the elder Brother repine at it;) methinks this ſhould beſpeak thoſe who would be called the ſons of theſe ſpiritual Fa<g ref="char:EOLhyphen"/>thers, to walk in their ſteps, to goe and doe like<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>Laſtly, God owns and honours the broken con<g ref="char:EOLhyphen"/>trite Spirit; for this is the eſpecial grace he promi<g ref="char:EOLhyphen"/>ſes to his Church, by which all other bleſſings are qualified and ſanctified, and without which they are nothing worth. <hi>Ezek.</hi> 36.21. God opens the treaſures of his mercy; at the 24. verſe he promi<g ref="char:EOLhyphen"/>ſeth to <hi>take his People from amongſt the Heathen, gather them out of all Countries, bring them to their own Land,</hi> &amp;c. And yet as if all this were nothing, unleſs a broken and contrite Spirit were vouchſafed them, God promiſeth at the 26. verſe, <hi>I will take away the heart of ſtone, and I will give a heart of fleſh:</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> firſt, as an Antidote againſt ſin; ſe<g ref="char:EOLhyphen"/>condly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> as a ſpiritual Potion to kill the worms of temptation, which might lead them into Evil; and thirdly,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> as a preſervative from Lamentation, Mourning, and future Woe. And to ſpeak to our own condition: Though God hath brought us out of the dangers of tumultuous clamours and ſchiſ<g ref="char:EOLhyphen"/>matical terrors, given us our Religion and Laws, our Properties and Immunities, and, which is the
+<pb n="15" facs="tcp:53035:11"/>ſumme of all, our King and Church; yea though we have had many fair mornings after a black day, though our Candle gives a clear light, and we ſleep in the arms of Peace; yet if God break us not for our Sins, and from them, if he give not a broken, contrite Spirit, a worm may yet breed out of our Corruption, and conſume our Gourd.</p>
+            <p>But why will not God deſpiſe, but ſo accept and honour a broken, contrite Spirit? that is the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="1">1. Becauſe it is a ſpiritual Sacrifice.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+            </p>
+            <p>Firſt, the Sacrifice is the Spirit; ſecondly, the Spi<g ref="char:EOLhyphen"/>rit as broken.</p>
+            <p n="1">1. The Sacrifice is the Spirit, that is the beſt of man. <hi>Prov.</hi> 23.26. <hi>My ſon, give me thy heart.</hi>
+            </p>
+            <p n="2">2. The Spirit as broken, and that is the beſt of the Spirit. When we beat hard things into pow<g ref="char:EOLhyphen"/>der, we call that powder the flour of it. Broken<g ref="char:EOLhyphen"/>neſs and Contrition is
+<note n="*" place="margin">D<hi rend="sup">r</hi> 
+                  <hi>W.</hi>
+               </note> 
+               <hi>flos Cordis,</hi> the fineſt of the heart. The finer the flour, the fitter offering for God. A contrite Spirit is fit for any ſervice, any Sacrifice; yea it is all Sacrifice.</p>
+            <p>God will not deſpiſe,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> but own and honour a contrite Spirit, becauſe it is very gracious and ami<g ref="char:EOLhyphen"/>able. <hi>Tricameratum,</hi> (it is <hi>Avicenna</hi>'s word) wherein you have not the three Perſons perſonally, but the Love of the Father, the Grace of the Son, and the
+<pb n="16" facs="tcp:53035:12"/>Renovation of the holy Ghoſt, myſtically. Hence <hi>Cor Pauli, Cor Chriſti, Chryſoſt.</hi> the Heart of <hi>Paul</hi> is the Heart of Chriſt. This broken contrite Spirit, in the purpoſe and preparation of it, is <hi>Amor Dei,</hi> the Love of God; in the inſpiration and infuſion of it, it is <hi>Donum Dei,</hi> the Gift of God; in the comforts of it, it is <hi>Oſculum Dei,</hi> the Kiſs of God. It is no chance-Gift, <hi>inter miſsilia Fortunae,</hi> as that <hi>Excellent Prelate</hi> ſpeaks,
+<note place="margin">D. <hi>B.</hi> B. <hi>E.</hi>
+               </note> but God's choice Gift. In other bleſſings God kiſſeth us ſleeping, we know not how we come by them; but this is given <hi>non dormientibus, ſed vigilantibus,</hi> not to them that ſleep, but to thoſe that watch and weep, cry and wait for it.</p>
+            <p>But more particularly, The broken contrite Spirit is gracious and very amiable; For,</p>
+            <p>You have in it all the lineaments of the new Creature, the new Birth, the Divine Nature.</p>
+            <list>
+               <item>1. Conviction.</item>
+               <item>2. Compunction.</item>
+               <item>3. Converſion.</item>
+            </list>
+            <p>See all drawn to the life in <hi>Primitiis Evangelii,</hi> in the firſt famous Converſion wrought by the A<g ref="char:EOLhyphen"/>poſtles in the Chriſtian Church, (the Pattern and great Exemplar of all Converſions to the World's end.)</p>
+            <pb n="17" facs="tcp:53035:12"/>
+            <p>There was Conviction, 2. <hi>Acts</hi> 36.
+<milestone type="tcpmilestone" unit="unspecified" n="I"/> Therefore let all the Houſe of Iſrael know aſſuredly that God hath made that ſame Jeſus <hi>whom ye have crucified</hi> both Lord, and Chriſt.</p>
+            <p>Compunction. 37. <hi>v.</hi> And when they heard this,
+<milestone type="tcpmilestone" unit="unspecified" n="II"/> they were prickt at their heart; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as if the points of ſo many poiſoned daggers or ſcorpions ſtings had been ſtruck into every part of their hearts, at once in the cruelleſt manner imagin<g ref="char:EOLhyphen"/>able: ſo the word imports.</p>
+            <p>Converſion. 38. For they Repented,
+<milestone type="tcpmilestone" unit="unspecified" n="III"/> and were Baptized, <hi>&amp;c.</hi> The Hebrew calls Repentance <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and we Converſion (the main joynt of Repentance) which implyes not only an averſion from ſin, a dying to it in the paſſions of the mind, (Fear, Grief, and Hatred,) but a turn in the Will to God. Not only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; a grief for what is paſt, but a change of mind for the time to come; not grief of mind only (ſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is ſometimes taken) but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which implyes a grief for ſin mixt with Faith which is repentance to Salva<g ref="char:EOLhyphen"/>tion, never to be repented of. 2 <hi>Cor</hi> 7.10. Whoſe riſe is godly ſorrow, whoſe nature is a purpoſe to ſin no more, whoſe fruit is amendment of life.</p>
+            <p>A Contrite ſpirit is gratious,
+<note place="margin">Laſtly.</note> becauſe there is in it the Evidence of God's immediate, Omnis potent and Efficacious working upon the Soul, not in a way of Providence, or Juſtice, but in a
+<pb n="18" facs="tcp:53035:13"/>way of Grace. <hi>
+                  <g ref="char:V">Ʋ</g>is</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>regenerationis,</hi> as the Renown'd <hi>Mead</hi> hath it. 36. <hi>Eze.</hi> 26. I <hi>will take away the heart of ſtone, and I will give a heart of fleſh.</hi> 1. A very ſtone, made fleſh. A Monſter of Vice, a Miracle of Virtue. <hi>Monſtrum vitii, Miraculum virtutis.</hi> This is <hi>modus rei.</hi> 2. I will do it, this is <hi>modus dicti,</hi> I will take away the heart of ſtone, ſtupid, ſenſeleſs, rebellious, and I will give a heart of fleſh, tender, pliable, flexi<g ref="char:EOLhyphen"/>ible to every good word, and work.</p>
+            <p>Hitherto you have had theſe Sacrifices naked, and open, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the skin pul'd of, and the Intrails expoſ'd to open view. I now come to the Apoſtle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 2 <hi>Tim.</hi> 2.15. His rightly dividing the word, and giving every one their due. General diſcourſes are like the beams of the Sun, diſpers't in the air, which may warm us a little, and that's all: but cloſe ap<g ref="char:EOLhyphen"/>plication is like the Burning glaſs, which gathers all the Beams into one point or Centre, faſtens them on the Soul, and ſo <hi>Verba,</hi> not <hi>inflantia,</hi> but <hi>inflammantia,</hi> kindle and enflame.</p>
+            <p>Then learn here from this Doctrine of a <hi>Broken and contrite Spirit,</hi>
+            </p>
+            <p>What the iſſue of ſin in the end will be?
+<milestone type="tcpmilestone" unit="unspecified" n="i."/> It may be ſweet in thy Mouth, but it will be bitter in thy Bowels. The little pleaſure ſin brings thee in, if it be not thy bane, thou muſt vomit it up again, and that may tear and torture thy very
+<pb n="19" facs="tcp:53035:13"/>Soul. 2. <hi>Jer.</hi> 19. <hi>It is an evil thing and bitter to provoke the Lord. Extrema gaudii luctus occupat,</hi> the end of that mirth is mourning.</p>
+            <p>If ever God ſave any of your Souls,
+<milestone type="tcpmilestone" unit="unspecified" n="ii."/> it will be by brokenneſs and Contrition. If ever God by his Grace, come to dwell in any of your hearts, he will make a forcible entrance.</p>
+            <p>Conſider how dreadful the condition of deſpair is: if theſe whom God intends, Mercy, Grace,
+<milestone type="tcpmilestone" unit="unspecified" n="iii."/> and Peace to, be ſo broken, and beaten, ſo bruis'd and ground to powder: what are their racks and tortures? their Tribulation and Anguiſh? Whom God ſtrikes, and wounds with the ſight and ſence of his wrath, as moſt deſerved and due to them, as moſt unavoidable, and unſupportable by them? Theſe racks and tortures are <hi>Primitiae infernalis flammae,</hi> the firſt fruits of the infernal flame, the greateſt part of the torment of the damn'd in Hell, where the worm never dies, and the fire never goes out. <hi>Quid patientur quos reprobet, ſi ſic cruciantur quos amat?</hi> ſaith <hi>Gregor.</hi> If <hi>David's</hi> bones were ſo broken for his adultery, what furious reflexions? What a Hell was in <hi>Achitophels</hi> con<g ref="char:EOLhyphen"/>ſcience for his Perjury, Treachery, and Treaſon? How did his ſorrow riſe into horror, and that horror into deſpair? God grant that both you and I may know what this deſpair is, rather by re<g ref="char:EOLhyphen"/>lation then experience.</p>
+            <p>See the bleſſed eſtate of thoſe whoſe <hi>hearts,
+<milestone type="tcpmilestone" unit="unspecified" n="iiii."/> and Spirits are broken and Contrite.</hi>
+            </p>
+            <pb n="20" facs="tcp:53035:14"/>
+            <p>They will be preſerved from ſin,
+<milestone type="tcpmilestone" unit="unspecified" n="i."/> and the ſad ef<g ref="char:EOLhyphen"/>fects of it, and inabled to perform all duties accep<g ref="char:EOLhyphen"/>tably. 31. <hi>Jer.</hi> 18. <hi>I have heard</hi> Ephraim <hi>bemoaning himſelf,</hi> &amp;c. <hi>I have ſurely heard,</hi> i. e. hearing I have heard, heard attentively, ſo as to regard, <hi>&amp;c.</hi>
+            </p>
+            <p>This will make the ſoul patient,
+<milestone type="tcpmilestone" unit="unspecified" n="ii."/> under the great<g ref="char:EOLhyphen"/>eſt affliction, and thankful for the leaſt mercy; glad with the woman of <hi>Canaan,</hi> for a Crum; taſte with the Church, a little honey in an Ocean of Gall, <hi>Lamen.</hi> 3.22. <hi>It it the Lords mercies, we are not conſu<g ref="char:EOLhyphen"/>med.</hi>
+            </p>
+            <p>Their Obedience will be higheſt,
+<milestone type="tcpmilestone" unit="unspecified" n="iii."/> when their Condition is loweſt, and their hearts loweſt, when their condition in the world is higheſt.</p>
+            <p>This brokenneſs and Contrition will make the heart,
+<milestone type="tcpmilestone" unit="unspecified" n="iv."/> the only fit ſoyl for the word of God to take root in, and bring forth thirty, ſixty, and a hundred fold. The hearts of the <hi>Corinthians</hi> were firſt tables of fleſh, then written upon by the ſpirit of God, and ſo declared to be the Epiſtle com<g ref="char:EOLhyphen"/>mendatory of Chriſt, <hi>ſeen and read of all men,</hi> 2 <hi>Cor.</hi> 3.3.</p>
+            <p>I might here demonſtrate the Vaſt odds betwixt that Account God and the World make of a bro<g ref="char:EOLhyphen"/>ken and contrite Heart:
+<milestone type="tcpmilestone" unit="unspecified" n="v."/>
+            </p>
+            <p>But I will conclude all in a uſe of Examination, whether our hearts and ſpirits were ever truly bro<g ref="char:EOLhyphen"/>ken and contrite or no?</p>
+            <pb n="21" facs="tcp:53035:14"/>
+            <p>He that will fiſh for Souls, muſt bait his hook with the worm of Conſcience, which as St. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom</hi> ſpeaks, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an unpopular Tributial. Now the office of Conſcience is four<g ref="char:EOLhyphen"/>fold.</p>
+            <p>To know the rule, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<milestone type="tcpmilestone" unit="unspecified" n="i."/>
+            </p>
+            <p>To take notice of the Entity and exiſtence of our Actions, whether done,
+<milestone type="tcpmilestone" unit="unspecified" n="ii."/> or not done with ſuch and ſuch circumſtances, or without.</p>
+            <p>To apply the Action to the Rule,
+<milestone type="tcpmilestone" unit="unspecified" n="iii."/> and compare theſe two together, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>To judge of the quality of the Action,
+<milestone type="tcpmilestone" unit="unspecified" n="iv."/> accord<g ref="char:EOLhyphen"/>ing to the Rule, and of its agreeing, or diſagreeing to it. This Act is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and is the laſt and perfecteſt act of reaſon, or of Conſcience. If this work of Conſcience were throughly done, men would know and own their miſery. It would take off their Edge and mettle, if they did but ſeriouſly think, how directly their ways point towards eter<g ref="char:EOLhyphen"/>nal damnation. There is no man but will ſtoop un<g ref="char:EOLhyphen"/>der ſelf conviction, and ſelf judgement.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>then</hi> ('tis the Baptiſts word) <hi>prepare the way of the Lord.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ('tis St. <hi>Pauls</hi> word) <hi>Examine your ſelves:</hi> yea, 'tis Gods word, 17. <hi>Prov.</hi> 3. <hi>The fi<g ref="char:EOLhyphen"/>ning pot is for ſilver, and the furnace for gold; but God trieth the hearts:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (ſo the Septuagint renders it) the alluſion is to Goldſmiths, who try their mettals by the Touchſtone, and by fire.
+<pb n="22" facs="tcp:53035:15"/>If you will not try your ſelves by the Touchſtone of the word, God will try you by fire, by the fire of inward conviction, and outward affliction. Now Examination is, not for Examination ſake, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is that we may find <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and that is a broken and contrite Heart. To direct herein, I ſhall lay down two <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or chara<g ref="char:EOLhyphen"/>cters by which we may make a certain judgement, whether our hearts and ſpirits are truly broken, or contrite, or no.</p>
+            <p>Firſt, the qualities in them.</p>
+            <p>Secondly, the effects or conſequents of them.</p>
+            <p>The qualities in a Broken Contrite ſpirit,
+<milestone type="tcpmilestone" unit="unspecified" n="i."/> are theſe five.</p>
+            <p>It is Evangelical and Active.
+<milestone type="tcpmilestone" unit="unspecified" n="i."/> There is a broken<g ref="char:EOLhyphen"/>neſs and contrition which is Natural and Legal.</p>
+            <p>Natural, ſuch was <hi>Joſephs</hi> weeping over his bre<g ref="char:EOLhyphen"/>thren, and St. <hi>Aug.</hi> weeping in reading the hiſtory of <hi>Dido</hi> before his converſion; which were not Acts of grace, but of nature.</p>
+            <p>Legal, ſuch was the inceſtuous <hi>Corinthians,</hi> who was almoſt ſwallowed up of ſorrow, 2 <hi>Cor.</hi> 2.7. the ſinfulneſs of which ſorrow appears in two things, It keeps from duty, it unfits for duty, that like Paper too wet, which receives no wri<g ref="char:EOLhyphen"/>ting. But the contrite heart is Evangelical, (ano<g ref="char:EOLhyphen"/>ther <hi>Iſaac)</hi> a child of promiſe; that grows not out of the bodies conſtitution and temperament, but out of the promiſe, 36. <hi>Ezek.</hi> 26. <hi>I will take away
+<pb n="23" facs="tcp:53035:15"/>the heart of ſtone, and I will give a heart of fleſh.</hi>
+            </p>
+            <p>And as it is Evangelical, ſo it is Active. There is a paſſive contrition, <hi>dolor morbi,</hi> a ſoreneſs, ſor<g ref="char:EOLhyphen"/>rows and pangs that ſeize on us, whether we will or no, but the brokenneſs here is deliberate, ele<g ref="char:EOLhyphen"/>ctive, Active; for,</p>
+            <p>It is a grace ſeated in the heart,
+<milestone type="tcpmilestone" unit="unspecified" n="i."/> and making it willing to mourn and repent.</p>
+            <p>It is a duty, and to be performed.
+<milestone type="tcpmilestone" unit="unspecified" n="ii."/>
+               <hi>Rent your hearts, Plough up the fallow ground,</hi> &amp;c.</p>
+            <p>It is a condition of the Covenant,
+<milestone type="tcpmilestone" unit="unspecified" n="iii."/> and to be ful<g ref="char:EOLhyphen"/>fill'd. <hi>If my people, which are called by my name, ſhall humble themſelves, and pray,</hi> &amp;c. 2 <hi>Chr.</hi> 7.14.</p>
+            <p>A Broken and Contrite heart is tender and melt<g ref="char:EOLhyphen"/>ing, yields to threatnings, melts under promiſes,
+<note place="margin">Second<g ref="char:EOLhyphen"/>ly.</note> 2 <hi>Chr.</hi> 34.27. <hi>Propterea quod emollitum eſt cor tuum, &amp; humiliaſti te à facie Jehovah,</hi> ſaith God to <hi>Joſiah. Becauſe thy heart was tender, and thou didſt humble thy ſelf before God,</hi> &amp;c. There is a tenderneſs which ariſeth from the Natural ſympathy betwixt the heart and the eye, <hi>Lamen.</hi> 3.51. <hi>My eye affects my heart,</hi> &amp;c. but this tenderneſs comes from Faith, which doth not only purifie, but mollifie the heart, by applying, firſt, the word of God, that ham<g ref="char:EOLhyphen"/>mer, arrow, fire. Secondly, The blood of Chriſt. Thirdly, The love of God. With this hammer it breaks, with this arrow it pierceth, with this fire it melts the heart, in this blood it diſſolves the Adamant, on this pillow it breaks the flint.</p>
+            <pb n="24" facs="tcp:53035:16"/>
+            <p>A broken and contrite Heart,
+<note place="margin">Thirdly.</note> is of a quick ſenſe, and lively apprehenſion.</p>
+            <p>It diſcerns in the Soul,
+<milestone type="tcpmilestone" unit="unspecified" n="i."/>
+               <hi>intima &amp; minima,</hi> the leaſt thing and moſt ſecret. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The firſt workings of our Underſtandings, and apprehenſions; of our paſſions, and affections, ren<g ref="char:EOLhyphen"/>dred in the 5. <hi>Heb.</hi> 14. The <hi>bones &amp; marrow,</hi> the thoughts and intents of the heart, the ſecrets of the belly. <hi>Prov.</hi> 20. <hi>latentes ſenſus</hi> as <hi>Druſius</hi> ſpeaks.</p>
+            <p>It diſcerns in ſin,
+<milestone type="tcpmilestone" unit="unspecified" n="ii."/> 1. Offence, 2. Diſhonour, 3. Unkindneſs, 4. Ingratitude. Offence and diſhonour of God, unkindneſs and ingrati<g ref="char:EOLhyphen"/>tude againſt God, Hence <hi>Davids</hi> Con<g ref="char:EOLhyphen"/>trition in the 3. <hi>v. Againſt thee, thee only have I ſinned, and done this evil in thy ſight.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>tibi tibi ſoli</hi> Not only becauſe <hi>David</hi> a King, and his Crown imperial, and ſo exempt from all Co<g ref="char:EOLhyphen"/>ercive and Vindicative power, and force of his Sub<g ref="char:EOLhyphen"/>jects, and only left to Gods own judgment; But be<g ref="char:EOLhyphen"/>cauſe this was his greateſt grief, that he had ſin'd a<g ref="char:EOLhyphen"/>gainſt God, &amp; ſuch a God as had been ſo good to him, 2 <hi>Sam.</hi> 7.18, 19. And that this God ſhould ſo ſuffer in his ſin. 2 <hi>Sam.</hi> 12.14 Who only could pardon his ſin.</p>
+            <p>A broken and contrite Heart,
+<note place="margin">Fourthly</note> is Docible and flexible, docible in the Underſtanding, and flexi<g ref="char:EOLhyphen"/>ble in the Will. That men are able to underſtand and will <hi>Aright,</hi> this is of <hi>Pure nature, ſtatus inſti<g ref="char:EOLhyphen"/>tutus,</hi> in which <hi>anima est integra.</hi> That the Un<g ref="char:EOLhyphen"/>derſtanding is indocible, and the Will inflexible,
+<pb n="25" facs="tcp:53035:16"/>this is of corrupt nature, <hi>ſtatus deſtitutus,</hi> in which <hi>anima eſt laeſa, illuſa, illiſa. Laeſa</hi> in naturals, <hi>illuſa</hi> in morals, <hi>illiſa,</hi> bruiſed, beaten, broken in meerly ſpirituals and ſupernaturals. But that the Under<g ref="char:EOLhyphen"/>ſtanding is tractable and docible, and the Wil flexible, this is of Sanctified nature, <hi>status re<g ref="char:EOLhyphen"/>ſtitutus,</hi> and here <hi>anima</hi> is <hi>rectificata,</hi> here the Grace of God is <hi>flexanima<g ref="char:punc">▪</g>
+               </hi> and <hi>Vorticordis</hi> ('Tis <hi>S. Aug.</hi> word) it bores the ear, and bows the Soul. See this in the Converts, in the 2. <hi>Acts</hi> 37. <hi>Men and Brethren what ſhall we do?</hi> In <hi>S. Paul Act.</hi> 9.6. <hi>Lord what wouldſt thou have me to do?</hi> In the Jayler <hi>Act.</hi> 16.30. <hi>Sirs, what muſt I do to be ſaved?</hi> Theſe are not only <hi>Verba ignorantiae,</hi> words of men at a loſs, how to get eaſe, but <hi>verba docilitatis, &amp; promptitudinis,</hi> words of men whoſe ſpirits are broken, and contrite, whoſe Underſtandings are docible, and whoſe Wills are flexible, ready to hear any Inſtruction, and to undertake any di<g ref="char:EOLhyphen"/>rection for Life and Salvation.</p>
+            <p>A broken contrite Heart,
+<note place="margin">Laſtly.</note> Obedientially reſigns up its ſelf into Gods hands: For,
+<milestone type="tcpmilestone" unit="unspecified" n="i."/> it is a heart after his heart, that is ready to do or ſuffer <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, all his Wills, The will of his Word, and the will of his works, of Precept, and Providence. This was the character, God gives of <hi>David.</hi> 13. <hi>Act.</hi> 22. <hi>I have found</hi> David <hi>the Son of</hi> Jeſſe, <hi>a man after my own Heart, which ſhall fulfil all my wills,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <pb n="26" facs="tcp:53035:17"/>
+            <p>Like melted Oar,
+<note place="margin">Second<g ref="char:EOLhyphen"/>ly.</note> it will run into his mould, and receive every lineament of it, <hi>Rom</hi> 6.17. You have have received that form of Doctrine that was de<g ref="char:EOLhyphen"/>livered to you, or rather <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, into which you are deliver'd.</p>
+            <p>With <hi>Abraham</hi> it will come to Gods foot.
+<note place="margin">Thirdly.</note> 4. <hi>Eſ.</hi> 2. come at his call. <hi>Vocavit eum ad pedem ſuum, calls him to his fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t: ut ſequeretur eum quocunque vellet eum ire, ut prompti, &amp; morigeri famuli ſolent, qui Domi<g ref="char:EOLhyphen"/>ni veſtigia ſequuntur, tametſi incerti ſint quo ipſos ducant.</hi> (ſo the <hi>Cald. Paraph.</hi>) that he might follow him whither ſoever he would have him goe; follow him as a good ſervant his Maſter, (though he knows not whither) all his Saints come to his hand and re<g ref="char:EOLhyphen"/>ceive the law from his mouth, <hi>Deut.</hi> 33.3.</p>
+            <p>But Secondly, Try your ſelves, as by the Qualities in it, ſo by the effects and Con<g ref="char:EOLhyphen"/>ſequents of it; which are theſe Four.</p>
+            <p>It will repreſs cenſoriouſneſs.
+<milestone type="tcpmilestone" unit="unspecified" n="i."/> A truly broken and Contrite heart is moſt ſenſible of its own ſin, knows moſt evil by it ſelf, judgeth its own ſin greateſt, and its own ſtate ſaddeſt, hath neither liſt, nor leiſure to cenſure others: as knowing that Cenſoriouſneſs is a complicated evil; that there is in it, firſt, a Uſurpation of one of thoſe immedi<g ref="char:EOLhyphen"/>ate Prerogatives of God, Glory, Vengeance, Judgement.</p>
+            <p>Secondly, Raſhneſs, thirdly, Uncharitableneſs, fourthly, Scandal; 14. <hi>Rom.</hi> 13. <hi>Let us not judge one
+<pb n="27" facs="tcp:53035:17"/>another, but judge this rather, that no man put a ſtum<g ref="char:EOLhyphen"/>bling block in his brothers way,</hi> and therefore a ſin juſtly damnable, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>merito paenas luens, Rom.</hi> 3.8.</p>
+            <p>St. <hi>Paul</hi> calls himſelf the leaſt of Saints, and greateſt of ſinners. The leaſt of Saints, 3. <hi>Eph.</hi> 8. <hi>To me the leaſt of all Saints,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Compara<g ref="char:EOLhyphen"/>tive made of a Superlative. <hi>Minimiſſimo,</hi> ſo <hi>Eſtius.</hi> The greateſt of ſinners, 1 <hi>Tim.</hi> 1.5. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the very chief <hi>ſigniferum peccatorem me confiteor.</hi> I pro<g ref="char:EOLhyphen"/>feſs my ſelf ſo. He was not ſo, (ſaith St. <hi>Aug.</hi>) but ſeem'd ſo to himſelf, and the reaſon is good, For he ſet his own ſins <hi>in debita proximitate,</hi> and ſo they appeared <hi>in juſta magnitudine,</hi> in a due diſtance, and they appeared in the juſt magnitude; but he look't at the ſins of others remotely, and ſo they loſt their proportion.</p>
+            <p>St. <hi>Peter</hi> before his fall, thought beſt of himſelf, and worſt of others. Though all men ſhould for<g ref="char:EOLhyphen"/>ſake thee, yet will not I. He fell by this cenſorious compariſon, and was ſo broken and bruiſed with his fall, that he durſt never after compare with others, much leſs prefer himſelf before others, or cenſure and reproach them.</p>
+            <p>In the 2. <hi>Acts</hi> you have ſome of the A<g ref="char:EOLhyphen"/>poſtles Auditors, ſcoffing in their faces, and cenſu<g ref="char:EOLhyphen"/>ring them at the 7. <hi>ver.</hi> for ſimple and illiterate <hi>Galileans,</hi> at the 13. <hi>ver.</hi> for drunkards; but no ſooner (by the dint of the word) are their hearts
+<pb n="28" facs="tcp:53035:18"/>broke, but they leave their cenſuring, and fall to be<g ref="char:EOLhyphen"/>ſeeching, 37. <hi>ver. Men and brethren what ſhall we do?</hi> Words of great humility and reverence.</p>
+            <p>St. <hi>Jerome</hi> complained of a ſort of men in his time that plac't religion in ſifting, cenſuring, and ſpeak<g ref="char:EOLhyphen"/>ing evil of others, <hi>Omnibus maledicere, bonae conſcien<g ref="char:EOLhyphen"/>tiae officium putant.</hi> This was an Epidemical diſeaſe in St. <hi>Aug.</hi> time, <hi>Temerariis judiciis plena ſunt omnia.</hi> In brief, a cenſorious ſpirit is not a contrite ſpirit. A cenſorious man is another <hi>Doeg, Dophi,</hi> which the Hebrew Doctors thus interpret, <hi>do duo pi os,</hi> one that hath two tongues: To him God ſpeaks, 50. <hi>Pſalm</hi> 20. <hi>Thou ſits and ſpeaks againſt thy brother, thou ſlandereſt thy own mothers ſon. Ponis probrum, ſtruis calumniam,</hi> ſo <hi>Vatab.</hi> thou ſtroweſt thy ſeat with cenſures, bloweſt them into thy neighbours ear, but 21. <hi>ver. Arguam te, &amp; ordinab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in oculis tuis quicquid feciſti,</hi> I will reprove thee, and I will ſet all thy own faults in thy eyes, <hi>reſiſtam tibi in faciem,</hi> ſo the Hebrew Text, and I will reſiſt thee to thy face, hold thy eye upon them, till I have fill'd thee with con<g ref="char:EOLhyphen"/>viction and fear. Conſider this you that herein, for<g ref="char:EOLhyphen"/>get God, leſt he tear you in pieces, when there is none to deliver; the Metaphor is taken from Lyons that catch their prey, and tear it, out of whoſe jaw none can reſcue.</p>
+            <p>A Broken Contrite heart,
+<milestone type="tcpmilestone" unit="unspecified" n="ii."/> meekly and patiently ſubmits to Gods afflicting hand for ſin. Thus <hi>Da<g ref="char:EOLhyphen"/>vid,</hi>
+               <pb n="29" facs="tcp:53035:18"/>2 <hi>Sam.</hi> 15.25. <hi>Abſolom</hi> had ſtoln the hearts of all <hi>Iſrael</hi> into a rebellion againſt his Father; the conſpiracy and inſurrection was ſudden and ſtrong. In this ſtorm you find no eſtuations of ſpirit, no in<g ref="char:EOLhyphen"/>vectives, no curſing his Stars, (the dirt of a foul heart) but he lies down at Gods feet, in a gracious poyze and evenneſs of ſoul; not knowing what God will do with him, whether he will take him up or tread upon him; weighs the events, but caſts an<g ref="char:EOLhyphen"/>chor here. If I ſhall find favour, he will bring me back, &amp; ſhew me both the Ark and the Tabernacle, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (Sep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uagint) the beauty and holineſs of it. But if he thus ſay, I have no delight in thee, here am I, let him do to me what ſeems good to him: If the worſt come that can, I am determined to ſubmit to Gods hand, to reſolve all events <hi>Pro</hi> and <hi>Con,</hi> and my ſelf too, into his bleſſed will; though the iſſue ſeem not good to me, it is enough it ſeems good to him.</p>
+            <p>A ſtone in the fire will ſooner flie in your face then melt; and an unbroken heart, ſooner fret, rage, and blaſpheme God, then ſubmit to God: But a contrite ſpirit will ſay with the Church, I will bear the indignation of the Lord, becauſe I have ſinned againſt him; and with <hi>David</hi> here, 4. <hi>ver. Against thee, thee only have I ſinned, and done this evil in thy ſight, that thou mighteſt be juſtified, acquitted, glorified, by my Confeſſion.</hi> Juſtified,
+<pb n="30" facs="tcp:53035:19"/>when thou ſpeakeſt in the reproof of <hi>Nathan;</hi> and clear when thou judgeſt me, by ſentencing my ſin, and puniſhment for it; or when thou art judged by others, who may think I am dealt too ſharply with.</p>
+            <p>A Broken Contrite heart under Gods afflicting hand is like a box of Spicknard broken, or like ſweet flowers pounced, many fragrant graces ſpread, and give their ſpiced ſmells. The fire diſ<g ref="char:EOLhyphen"/>covers mettals, whether good or bad; tempeſts Trees, whether well rooted or no, and afflicti<g ref="char:EOLhyphen"/>ons our hearts, whether broken and contrite, or not.</p>
+            <p>A broken and contrite ſpirit,
+<note place="margin">Thirdly.</note> will freely and fully recant and retract all its errors, and ſins. Confeſſion is the genuine effect of contrition. There is that holy Candor, and Ingenuity in a bro<g ref="char:EOLhyphen"/>ken heart, that it will not keep in it ſin, to ſave its credit, and ſo come under the curſe. 28. <hi>Prov.</hi> 13. <hi>He that hides his ſin ſhall not proſper.</hi>
+            </p>
+            <p>
+               <hi>Nimis perverſè ſe amat, qui &amp; alios vult errare, ut error ſuus lateat:</hi> He loves himſelf too per<g ref="char:EOLhyphen"/>verſly, that had rather, that others ſhould ſtill wan<g ref="char:EOLhyphen"/>der, then his own ſtrayings ſhould be obſerved. The Saints of God have ever been of another mind. Hence <hi>Moſes</hi> Unbelief, <hi>Davids</hi> Blood<g ref="char:EOLhyphen"/>guiltineſs, <hi>Jeremies</hi> Impatience, <hi>Jonahs</hi> Pettiſhneſs, <hi>Pauls</hi> Perſecutions, are impartially recorded by
+<pb n="31" facs="tcp:53035:19"/>their own Pens. Take holy <hi>Job</hi> for an inſtance, who about to make a ſolemn Proteſtation of his integri<g ref="char:EOLhyphen"/>ty. 31. <hi>Job.</hi> (which is inſeparable from contrition) He doth it by recanting &amp; retracting his error and ſins. 33. <hi>v.</hi> If I have covered my tranſgreſſion as <hi>Adam,</hi> by hiding my iniquity in my Boſom, <hi>&amp;c.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="i."/> Firſt he would not hide his ſins, <hi>ut Adam, ut homines,</hi> (ſo the <hi>Arab.</hi> verſion) <hi>ut homo,</hi> (ſo <hi>Arias Montanus</hi>) He would not hide them as <hi>Adam,</hi> who ſought a covering for his tranſgreſſion, <hi>Non quia nudus, ſed quia lapſas,</hi> not becauſe he was naked, but be<g ref="char:EOLhyphen"/>cauſe he was faln. Nor as man, or as men; who uſe Palliations, Expoſitions, Evaſions: <hi>Non quia nudi, ſed quia lapſi;</hi> not becauſe they are innocent, but becauſe they are guilty.</p>
+            <p>He ſits on the Dunghil, opens his Ulcers,
+<milestone type="tcpmilestone" unit="unspecified" n="ii."/> and Sores; freely and fully makes his confeſſion, ſtrong<g ref="char:EOLhyphen"/>ly imagine you heard him, <hi>Job.</hi> 40.4, 5. <hi>Behold I am vile, what ſhall I anſwer thee; I will lay my hand upon my mouth. Once I have ſpoken, but I will not anſwer, yea twice, but I will proceed no further.</hi> chap. 42. at the 3. <hi>v. I uttered what I underſtood not,</hi> at the 6. <hi>v.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Ideirco, reprobabo quod male dixi,</hi> ſo <hi>Vatab.</hi> tranſlates the Text. Wherefore I abhor my ſelf. Or I will reprobate what I have ſinfully ſpoken. <hi>Et reſcipiſcam,</hi> I will repent, or I will return to my ſelf, into the way whence I wandred. In this ſenſe <hi>reſipiſcere</hi> is frequently uſed by <hi>Tertul.</hi>
+               <pb n="32" facs="tcp:53035:20"/>and <hi>Lactantius</hi> for Repentance. <hi>Yea I will repent,</hi> ſaith <hi>Job, in duſt and aſhes.</hi> For, <hi>priſco more, in pulvere &amp; cinere ſedebat paenitens</hi> (ſo <hi>Druſius</hi>) of old the penitent, ſo Sate, now <hi>Dicat unuſqui<g ref="char:EOLhyphen"/>que quod velit,</hi> let every man ſpeak his pleaſure. I ſhall rather chooſe with <hi>Adam, Moſes</hi> and <hi>Job, David, Solomon</hi> (who hath by his Book of <hi>Eccleſiaſtes</hi> teſtified his retractations to all the World) and <hi>Manaſſes,</hi> with <hi>Jer.</hi> and <hi>Jonas,</hi> with <hi>Matthew, Magdalene, Peter, Paul, Auguſt. Jerom. Anſelm.</hi> and <hi>Bernard.</hi> I ſay, I ſhall rather chooſe with all theſe bleſſed Saints, and broken veſſels of Election, <hi>Confundi coram peccatoribus ſuper terram, Quam confundi coram Sanctis Ange<g ref="char:EOLhyphen"/>lis in coelo, vel ubicunque Dominus voluerit, judicium ſuum demonſtrare,</hi> by Confeſſion to be ſhamed be<g ref="char:EOLhyphen"/>fore Sinners on Earth, then to be confounded before all the holy Angels in Heaven, or before all the world at the day of Judge<g ref="char:EOLhyphen"/>ment. For be we well aſſured, that our iniquity will find us out, yea, and the puniſhment too 32. <hi>Numbers</hi> 23. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>in<g ref="char:EOLhyphen"/>veniet,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Septuagint <hi>apprehendet.</hi> Our iniquity will diſcover us, and judge<g ref="char:EOLhyphen"/>ment will take hold on us, <hi>Dabitis paenas pro eo.</hi>
+            </p>
+            <pb n="33" facs="tcp:53035:20"/>
+            <p>But you will object, Such as thus retract,
+<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> and recant their Errors and ſin, build again what they have deſtroyed, and ſo make themſelves Tranſgreſſors, as S. <hi>Paul</hi> ſpeaks, 2 <hi>Gal.</hi> 18.</p>
+            <p>I anſwer with S. <hi>Aug. In ipſum Paulum pri<g ref="char:EOLhyphen"/>mitus hoc diceretur.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This ſhould firſt have been objected againſt S. <hi>Paul</hi> himſelf; for, <hi>Gal.</hi> 1. <hi>ult.</hi> it is ſaid, <hi>He which perſecuted us in time paſt, now preacheth the faith which once he de<g ref="char:EOLhyphen"/>ſtroyed: And they glorified God in him.</hi> Indeed, <hi>Cum erubeſcit quiſquam, de proprie iniquitate, &amp; poenitendo in melius commutatur.</hi> When a<g ref="char:EOLhyphen"/>ny ſhall take ſhame to themſelves for their own ſin, &amp; repent, and reform; <hi>Iſta confuſio adducet gratiam &amp; gloriam.</hi> This honeſt ſhame, ſhall bring them both grace and glory. For as he that hides his ſin ſhall not proſper, ſo he that confeſ<g ref="char:EOLhyphen"/>ſeth and forſaketh, them ſhall have mercy. I was an obſtinate Papiſt, as any in <hi>England</hi> (ſaid B. <hi>Latimer</hi>) in ſo much as when I commenced <hi>Batchelor</hi> in Divinity, my whole poſition ran a<g ref="char:EOLhyphen"/>gainſt <hi>Melancthon</hi>'s Opinions.</p>
+            <p>To conclude then. <hi>Irrideant nos fortes &amp; potentes,</hi> ſaith St. <hi>Aug.</hi> Let the 99 juſt perſons, that need no repentance, laugh and ſcorn us; <hi>Nos inopes &amp; infirmi conſitebimur tibi, &amp;c.</hi> We the poor of the flock, of contrite ſpirits, will confeſs our ſins to thee, O Lord.</p>
+            <pb n="34" facs="tcp:53035:21"/>
+            <p>Once more, <hi>Irridiant nos arrogantes, &amp; non<g ref="char:EOLhyphen"/>dum ſalubriter proſtrati, ego tamen confitebor tibi dedecora mea:</hi> Let the arrogant, and ſuch as never had the grace of a broken and con<g ref="char:EOLhyphen"/>trite heart, let ſuch deride me, ſaith <hi>Aug.</hi> I will, with <hi>Lazarus</hi> full of ſores, lie at the beautifull gate of that God, who is rich in mercy, and confeſs my fouleſt iniquities to thee, O my God.</p>
+            <p>Laſtly, <hi>A broken contrite ſpirit</hi> will be deep<g ref="char:EOLhyphen"/>ly affected, as with the act of ſin, the guilt, and the ſtain, ſo with the ſcandal of it. A ſcandal is a ſtone in the way, at which a man ſtumbles, fals, and receives hurt in his body. Scandalous ſins are ſuch as others ſtumble at, fall, and re<g ref="char:EOLhyphen"/>ceive hurt by in their ſouls.</p>
+            <p>Sins are ſcandalous in reſpect of their Manner and Matter.</p>
+            <p>In reſpect of the Manner, when committed deliberately, and preſumptuouſly.</p>
+            <p>In reſpect of the Matter, when they are com<g ref="char:EOLhyphen"/>mitted <hi>in materia gravi:</hi> For all deliberate preſumptuous ſins are in their Matter and Na<g ref="char:EOLhyphen"/>ture hainous.</p>
+            <p>In ſin there are four things conſiderable.</p>
+            <list>
+               <item>1. The Act.</item>
+               <item>2. The Guilt.</item>
+               <item>3. The Stain.</item>
+               <item>4. The Scandal.</item>
+            </list>
+            <pb n="35" facs="tcp:53035:21"/>
+            <p>The Act is quickly over; but the reſt have long lives.</p>
+            <p>The Guilt, that remains for ever, if not taken away by Repentance, and Faith in Chriſts bloud.</p>
+            <p>The Stain that continues when the guilt is pardoned. <hi>Sanato vulnere manet cicatrix:</hi> Though the wound be healed, yet the ſcar a<g ref="char:EOLhyphen"/>bides; as the infamy upon <hi>Jeroboam</hi>'s name, <hi>That he made Iſrael to ſin.</hi>
+            </p>
+            <p>Laſtly, Though the Perſons of ſcandalous Sinners be gone long ſince, yet not the hurt daily done by their example.</p>
+            <p>It is a Queſtion in the Schools, Whether the damned have their greateſt puniſhment at firſt? Some have determined it negatively; and their Reaſon is, Becauſe they have not at their death finiſh'd all the miſchief they will do. For, when their bodies are in their graves, and their ſouls in Hell, their ſins are above ground, and live in the memory of men, and do daily miſ<g ref="char:EOLhyphen"/>chief, and will to the worlds end. Therefore as the hurt of their bad example encreaſeth, ſo doth their puniſhment.</p>
+            <p>Whether the pain of the damned be thus encreaſed, I know not: but ſure I am, mens ſins and ill examples may be above ground, and do hurt, when they themſelves are under ground, and turn'd to aſhes.</p>
+            <pb n="36" facs="tcp:53035:22"/>
+            <p>Wo then to the World becauſe of offences, (ſaith our Saviour, <hi>Matth.</hi> 18.7.) not paſſive offences, (ſaith the late Reverend <hi>Hoard</hi>) <hi>i. e.</hi> Actions which men ſtumble at (when they have no juſt cauſe, through their own ignorance, ill-affectedneſs, raſhneſs, pride, or any like cauſe) for then wo would be to the very beſt men the earth bears; none being able to walk ſo accurately, blameleſly and wiſely, as to avoid and prevent all captious exceptions, cavils and prejudices; no, not our Saviour him<g ref="char:EOLhyphen"/>ſelf, for his Diſciples told him, <hi>Mat.</hi> 15. that the Phariſees were offended at him.</p>
+            <p>Our Lord, then means Active ſcandals, truly and properly given, ſuch as carry that in their foreheads, which the Chriſtian World, nay the Pagan world cannot chooſe but be of<g ref="char:EOLhyphen"/>fended at. Such are,
+<list>
+                  <item>1. The late National <hi>Oath</hi> and <hi>Covenant,</hi> which is either leterally to be kept, (which I hope none dare ſay) or to be re<g ref="char:EOLhyphen"/>pented of, (which I hope all will ſay) One of the Horns of this <hi>Dilemma</hi> will Gore.</item>
+                  <item>2. The killing of our late Soveraign Lord the King, not to be mentioned without abhorrency, nor forgotten without ſtupi<g ref="char:EOLhyphen"/>dity, <hi>nihil funeſtius luctuoſius nihil.</hi>
+                  </item>
+                  <item>3. The very ſcandalous offences in Life and Doctrine accompanying our late Rebel<g ref="char:EOLhyphen"/>lions
+<pb n="37" facs="tcp:53035:22"/>and Schiſmatical courſes, and our continued compliance, with the late Uſurpations and Traytorous forces.</item>
+               </list>
+            </p>
+            <p>Theſe are thoſe evil deeds, by which we have given occaſion to the enemies of God to Blaſ<g ref="char:EOLhyphen"/>pheam. <hi>Vide Chriſtianos quid agunt &amp; evidenter fieri poteſt, de ipſo Chriſto ſciri, quid doceat,</hi> (thus the Pagans in <hi>Salvian;</hi>) See what the Chriſtians do, and by that you, may eaſily know, what their Chriſt teacheth.</p>
+            <p>Theſe are thoſe horrid ſcandals, which live in the memories of men, and do daily miſ<g ref="char:EOLhyphen"/>chief: for,
+<list>
+                  <item>1. Do they not ſerve mens turns for the juſti<g ref="char:EOLhyphen"/>fication of their ſins?</item>
+                  <item>2. Do they not fill their heads with hopes, that they ſhall do well enough, notwith<g ref="char:EOLhyphen"/>ſtanding their ſeditions, conſpiracies, and Rebellions, though they ſhould put the Kingdom again into blood? ſeeing ſuch men, who were reputed good, and are now believed to be in Heaven, were guilty of the ſame, and worſe.</item>
+               </list>
+            </p>
+            <p>But that I may come to that which is <hi>Verbum Diei.</hi>
+            </p>
+            <p>It was Propheſied by our Soveraign of glori<g ref="char:EOLhyphen"/>ous memory <hi>(Chriſtus Jehovae)</hi> to his Son, our now moſt Gracious King <hi>(Miraculum Clemen<g ref="char:EOLhyphen"/>tiae)</hi>
+               <pb n="38" facs="tcp:53035:23"/>Juſt, up to the higheſt example; but Merci<g ref="char:EOLhyphen"/>ful beyond example, in the 27. <hi>Meditation</hi> of his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. That the moſt of all ſides (who have done amiſs) have done ſo, not out of malice, but miſ-information and miſ<g ref="char:EOLhyphen"/>underſtanding of things.</p>
+            <p>And (which is the Propheſie) that none will be more loyal and faithful to You or to Me, than thoſe ſubjects, who ſenſible of their own errors and our injuries, will feel in their ſouls, moſt vehement motives to repentance, and ear<g ref="char:EOLhyphen"/>neſt deſires to make ſome reparations for their former defects. Behold this day this Propheſie fulfilled; for, feeling in my ſoul moſt vehement motives to repentance, and earneſt deſires to make ſome reparations for my former defects; I have voluntarily taken hold of this ſolemn op<g ref="char:EOLhyphen"/>portunity, having (here) neither Text nor terms put upon me, (as one of the greateſt mer<g ref="char:EOLhyphen"/>cies of my life, the advantage of grace, the fruit of the Spirit, <hi>Nutus Dei,</hi> Gods beckning me into this place) wherein to offer to him the Sacrifice of a <hi>broken heart</hi> and <hi>contrite ſpirit.</hi>
+            </p>
+            <p>What was St. <hi>Paul</hi>'s comfort after the con<g ref="char:EOLhyphen"/>feſſion of his ſin, 1 <hi>Cor.</hi> 15. is mine, though not worthy to be called an Apoſtle, a ſubject of the Kings, a ſon of the Church (founded in <hi>Prae<g ref="char:EOLhyphen"/>lacy</hi>) from which Government this Nation re<g ref="char:EOLhyphen"/>ceived
+<pb n="39" facs="tcp:53035:23"/>the everlaſting Goſpel, planted and wa<g ref="char:EOLhyphen"/>tered with their blood, The blood of our learn<g ref="char:EOLhyphen"/>edſt and moſt religious Martyrs, <hi>Cranmer</hi> Arch-Biſhop of <hi>Canterbury, Ridley</hi> Biſhop of <hi>London, Latimer</hi> Biſhop of <hi>Worſter, Hooper</hi> Biſhop of <hi>Gloceſter, Ferrer</hi> Biſhop of St. <hi>Davids;</hi> theſe all dyed Proteſtant Biſhops in oppoſition to po<g ref="char:EOLhyphen"/>pery. That is,</p>
+            <p n="1">1. To all thoſe Doctrines held by the modern Church of <hi>Rome,</hi> which are either contrary to the written word of God, or be ſuperadded, as neceſſary points of Faith, to be of all Chri<g ref="char:EOLhyphen"/>ſtians believed upon pain of damnation.</p>
+            <p n="2">2. To all thoſe ſuperſtitions uſed in the wor<g ref="char:EOLhyphen"/>ſhip of God, which are either unlawful, as be<g ref="char:EOLhyphen"/>ing contrary to Gods word, or being not con<g ref="char:EOLhyphen"/>trary, and therefore arbitrary, and indiffe<g ref="char:EOLhyphen"/>rent, are made eſſentials and impoſed as neceſ<g ref="char:EOLhyphen"/>ſary parts of worſhip. So Dr. <hi>Sanderſon</hi> the late learned, loving and vigilant Biſhop of <hi>Lincoln,</hi> of reverend memory. And Oh that my head were a fountain of tears to bewail our ingrati<g ref="char:EOLhyphen"/>tude, injuſtice, perjury, and Antichriſtianiſm, in covenanting againſt them! I ſay, that though unworthy to be called a ſubject of the Kings, a Son of the Church, Yet by the grace of God, I am, that I am, a Penitent, a Convert. And as a token of it, with St. <hi>Paul</hi> to make ſome com<g ref="char:EOLhyphen"/>penſation
+<pb n="40" facs="tcp:53035:24"/>where I have done the wrong. I have herein laboured more abundantly than they all, who have alike offended. And not as pleaſing men, but God (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) the ſearcher of hearts, I do here with that ſeriouſneſs (as if I were im<g ref="char:EOLhyphen"/>mediately to appear before the Tribunal of Chriſt) make this threefold profeſſion of my judgment.</p>
+            <p n="1">1. That the <hi>Solemn League, and Covenant,</hi> which I have taken, was, and could not be o<g ref="char:EOLhyphen"/>ther than ſinfully taken by me, or any other; and continues ſo to all that have taken it, to be ſin to them, until they have renounced it. And therefore cannot but condemn my own, or a<g ref="char:EOLhyphen"/>ny other of my brethrens repentance, whileſt we would ſeem to repent of other our offences againſt God, our Sovereign, and this Church, but hold faſt &amp; defend ſtil that Covenant, which was and (as it is to be feared) is ſtill ſecretly meant as a common band of confederacy, and iniquity. And therefore do by theſe admoniſh all that are involved in this guilt with my ſelf, no lon<g ref="char:EOLhyphen"/>ger to add impenitency unto their ſin, upon pretence of conſcience for that which ought to be renounced (as we tender our own and others ſouls ſafety) for conſcience ſake.</p>
+            <p n="2">2. That I believe the killing our late Sove<g ref="char:EOLhyphen"/>reign Lord the King was a moſt horrid murder,
+<pb n="41" facs="tcp:53035:24"/>and parricide, and the great ſhame of all them, and their religion, that acted in it, or towards it, or after approved it, by aſſiſting thereto, by any force or Councel, or preaching, or pray<g ref="char:EOLhyphen"/>ing, or giving thanks: And therefore alſo can<g ref="char:EOLhyphen"/>not but condemn from my heart, all ſuch, who though not conſenting to killing, yet teach it lawful, for ſome ſubjects to reſiſt by force, fight againſt, impriſon, and forbid addreſſes unto their Liege-Lord and Sovereign. And particu<g ref="char:EOLhyphen"/>larly, I cannot but condemn that robbing of the King of the univerſal ſubjection and de<g ref="char:EOLhyphen"/>fence, due to his ſacred Majeſty, by ſuch equi<g ref="char:EOLhyphen"/>vocal ſwearing, that they will defend his Perſon in the defence of the true Religion, as it is men<g ref="char:EOLhyphen"/>tioned in the late Covenant: And all theſe practices, and Doctrines, I do freely acknowledge to be more evidently and truly Popiſh, than any thing, which hath in the late Quarrels been objected to the Fathers and Sons of the Church of <hi>England.</hi>
+            </p>
+            <p n="3">3. That whereas I do acknowledge, that very often other ſcandalous offences in Life, and Doctrine are wont to accompany, ſuch Rebel<g ref="char:EOLhyphen"/>lious, and Schiſmatical courſes, and conti<g ref="char:EOLhyphen"/>nued compliance, with all preſent Uſurpations, through all the time of Rebellions force; ſo as, that it needs God's infinite mercy to pardon,
+<pb n="42" facs="tcp:53035:25"/>and great charity from men, to believe any fol<g ref="char:EOLhyphen"/>lowing profeſſion of repentance; yet for as much as a ſinner, hath no other way, or hope left of his Salvation, but ſuch ſincere and late repentance; I humbly crave pardon of God, and man for any offences, which I have given, and beſeech all men to believe this my unfeign<g ref="char:EOLhyphen"/>ed Profeſſion of Repentance.</p>
+            <p>For as much as Charity,
+<list>
+                  <item>1. <hi>Suffers long, and is Kind,</hi> 1 <hi>Cor.</hi> 13.4. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, the word ſignifies a gentleneſs, &amp; ſweetneſs of manners: hence Chriſtians in the pureſt times of the Church, were cal'd <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, for the lovelineſs of their converſation one towards another.</item>
+                  <item>2. It doth not behave it ſelf unſeemly <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, doth not bitterly diſgrace ano<g ref="char:EOLhyphen"/>ther, is not tranſported by cruel paſſions.</item>
+                  <item>3. Is not eaſily provoked <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, fals not quickly into a ſharp fit.</item>
+                  <item>4. Rejoiceth not in iniquity, is not glad ano<g ref="char:EOLhyphen"/>ther hath done ill, that thereby he may be diſgraced; but rejoiceth in, and with the Truth.</item>
+                  <item>5. Bears all things, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, as the Beam bears the Building, or as the word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> ſignifies, covers faults with her large Mantle. <hi>Non facile, de quoquam deſperat, quin ad melio<g ref="char:EOLhyphen"/>rem
+<pb n="43" facs="tcp:53035:25"/>fungem venire poſſit;</hi> as the learned <hi>Grotius</hi> on the place; doth not eaſily de<g ref="char:EOLhyphen"/>ſpair of any, but that he may repent and be ſaved.</item>
+                  <item>Laſtly, Believes all things; not all things ſimply, but (<hi>credenda, &amp; credibilia,</hi> as <hi>Paraeus</hi> ſpeaks) in other mens ſayings and doings believes the beſt.</item>
+               </list>
+            </p>
+            <p>As an Evidence of this Charity, In all humi<g ref="char:EOLhyphen"/>lity I beſeech you, Men, Brethren, and (Right Reverend Father,) to join with me in Prayer, That <hi>the God of Peace, that brought again from the dead our Lord Jeſus Chriſt, the great Shep<g ref="char:EOLhyphen"/>heard of the Sheep, through the bloud of the everlaſting Covenant would make us all perfect in every good work to do his will; working in us all, that which is well pleaſing in his ſight. And that in the multitude of his mercy he would forgive us all that is paſt, and grant that we may ever hereafter ſerve and pleaſe him, in newneſs of life, to the honour and glory of his Name, through Jeſus Chriſt; to whom, with the Father and the bleſſed Spirit, be all glory, Ma<g ref="char:EOLhyphen"/>jeſty, Dominion, Power, and Adoration, both now, and for evermore.</hi>
+            </p>
+         </div>
+         <closer>Hallelujah.</closer>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
